@@ -1,0 +1,10 @@
+{
+  "openapi": "3.0.2",
+  "info": {
+    "title": "Inventory Management Tool",
+    "version": "1.0.0",
+    "description": "Backend APIs for Inventory Management"
+  },
+  "paths": {},
+  "components": {}
+} 
