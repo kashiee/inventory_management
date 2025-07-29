@@ -4,4 +4,4 @@ sqlalchemy
 aiosqlite
 passlib[bcrypt]
 python-jose[cryptography]
-python-multipart 
+python-multipart

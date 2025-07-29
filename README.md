@@ -69,7 +69,6 @@ backend/
 - Double-click `index.html` to open in your browser
 - Or right-click and choose "Open with..." your browser
 - Register, log in, and manage your inventory!
-
 ---
 
 ## 🧪 API Testing (Optional, but fun!)
@@ -116,5 +115,11 @@ backend/
 - Built with FastAPI, SQLite, and a love for clean code
 - MIT License
 
+<<<<<<< HEAD
 
 
+=======
+---
+
+**Enjoy managing your inventory! If you have questions or want to add features, just ask.** 
+>>>>>>> 506d3b109a5c3ef2caf9398a79effd0585684da3
