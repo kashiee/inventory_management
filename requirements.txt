@@ -3,4 +3,5 @@ uvicorn
 sqlalchemy
 aiosqlite
 passlib[bcrypt]
-python-jose[cryptography] 
+python-jose[cryptography]
+python-multipart 
